@@ -1,6 +1,16 @@
 # Graduate Papers
 
-A collection of papers I wrote during my graduate coursework at Penn State. Each one is a PDF in this folder. Below is a short description of what each paper covers.
+A collection of papers I wrote during my undergraduate and graduate coursework at Penn State. Each one is a PDF in this folder. Below is a short description of what each paper covers.
+
+## Overview
+
+| Paper | Course | Date |
+|---|---|---|
+| Artificial Intelligence in Cars | ENGL 202C | March 2023 |
+| Marine Detect | CMPSC 497 | May 2025 |
+| Oblivious RAM survey | CSE 530 | December 2025 |
+| Body Pose Forecasting | CSE 586 | April 2026 |
+| RECAP | CSE 587 | May 2026 |
 
 ## Papers
 
