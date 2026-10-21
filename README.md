@@ -1,4 +1,4 @@
-# Graduate Papers
+# Papers
 
 A collection of papers I wrote during my undergraduate and graduate coursework at Penn State. Each one is a PDF in this folder. Below is a short description of what each paper covers.
 
